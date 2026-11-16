@@ -114,7 +114,7 @@ export default function Footer() {
         <div className="mt-14 flex flex-col items-center justify-between gap-5 border-t border-white/20 pt-7 text-center sm:flex-row sm:text-left">
 
           <p className="text-sm text-white/75">
-            © {new Date().getFullYear()} Moyeenul Islam Tonmoy.
+            © 2026 Moyeenul Islam Tonmoy.
             All rights reserved.
           </p>
 
