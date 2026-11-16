@@ -24,7 +24,7 @@ export default function Navbar() {
 
         {/* LOGO */}
         <Link
-          href="#home"
+          href="/"
           onClick={closeMenu}
           className="text-2xl font-bold tracking-tight text-gray-950"
         >

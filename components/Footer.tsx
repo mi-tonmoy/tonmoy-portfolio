@@ -36,7 +36,7 @@ export default function Footer() {
           {/* BRAND */}
           <div>
             <Link
-              href="#home"
+              href="/"
               className="text-3xl font-bold tracking-tight text-white"
             >
               Tonmoy<span className="text-green-200">.</span>
